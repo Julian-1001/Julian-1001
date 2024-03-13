@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>Azure / Cloud Projects </b>
-  - [Creating a Live SOC/Honey Net in Azure](https://github.com/Julian-1001/Julian-1001)
+  - [Creating a Live SOC/Honey Net in Azure](https://github.com/Julian-1001/Azure-SOC)
 
 
 <h2> 🤳 Connect with me:</h2>
