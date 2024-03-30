@@ -1,9 +1,15 @@
 <h1>Hi, I'm Julian! Cyber Security Professional</h1>
 
-<h2>👨‍💻 Cyber Security Projects:</h2>
+<h2>👨‍💻 Projects</h2>
 
+<h3>Cybersecurity:</h3>
 - <b>Azure / Cloud Projects </b>
   - [Creating a Live SOC/Honey Net in Azure](https://github.com/Julian-1001/Azure-SOC)
+
+<h3>Cryptography:</h3>
+- <b>Go Projects</b>
+  - [Creating a CLI app to generate mnemonic seed phrases](https://github.com/Julian-1001/Phrase_Generator)
+
 
 ## Certifications
 
