@@ -8,7 +8,7 @@
 
 <h3>Cryptography:</h3>
 - <b>Go Projects</b>
-  - [An app to generate mnemonic seed phrases offline](https://github.com/Julian-1001/Phrase_Generator)
+  - [A CLI Application to Generate Mnemonic Seed Phrases Offline](https://github.com/Julian-1001/Phrase_Generator)
 
 ## Certifications
 
