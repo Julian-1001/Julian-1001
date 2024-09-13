@@ -11,7 +11,7 @@
   - [A CLI Application to Generate Mnemonic Seed Phrases Offline](https://github.com/Julian-1001/Phrase_Generator)
 
 ## Certifications
-
+- **Security+ ce** - CompTIA, 2024
 - **Cybersecurity Masterclass: SOC Analyst** - LeveldCareers, 2024 - [View certification](https://github.com/Julian-1001/Cybersecurity-Master-Class-Certificate)
 - **Google Cybersecurity** - Coursera, 2023 - [View certification](https://coursera.org/share/6af45b28d118af663af8ab0f7cdc8869)
 - **Google IT Support** - Coursera, 2023 - [View certification](https://coursera.org/share/94b61d812ff1fb6a6125b5fce20f0f24)
