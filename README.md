@@ -2,14 +2,11 @@
 
 <h2>👨‍💻 Projects</h2>
 
-<h3>Cybersecurity:</h3>
-- <b>Azure / Cloud Projects </b>
-  - [Creating a Live SOC/Honey Net in Azure](https://github.com/Julian-1001/Azure-SOC)
-
-<h3>Cryptography:</h3>
-- <b>Go Projects</b>
-  - [A CLI Application to Generate Mnemonic Seed Phrases Offline](https://github.com/Julian-1001/Phrase_Generator)
-
+## Cybersecurity
+- **Azure / Cloud Projects** - [Creating a Live SOC/Honey Net in Azure](https://github.com/Julian-1001/Azure-SOC)
+## Cryptography
+- **Go Projects** - [A CLI Application to Generate Mnemonic Seed Phrases Offline](https://github.com/Julian-1001/Phrase_Generator)
+  
 ## Certifications
 - **Security+ ce** - CompTIA, 2024 - [View certification](https://github.com/Julian-1001/Security_ce/blob/main/CompTIA%20Security%2B%20ce%20certificate.pdf)
 - **Cybersecurity Masterclass: SOC Analyst** - LeveldCareers, 2024 - [View certification](https://github.com/Julian-1001/Cybersecurity-Master-Class-Certificate/blob/main/Cybersecurity%20Masterclass%20SOC%20Analyst%20Certificate.pdf)
