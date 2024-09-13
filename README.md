@@ -3,9 +3,11 @@
 <h2>👨‍💻 Projects</h2>
 
 ## Cybersecurity
-- **Azure / Cloud Projects** - [Creating a Live SOC/Honey Net in Azure](https://github.com/Julian-1001/Azure-SOC)
+- **Azure / Cloud Projects**
+  - [Creating a Live SOC/Honey Net in Azure](https://github.com/Julian-1001/Azure-SOC)
 ## Cryptography
-- **Go Projects** - [A CLI Application to Generate Mnemonic Seed Phrases Offline](https://github.com/Julian-1001/Phrase_Generator)
+- **Go Projects**
+  - [A CLI Application to Generate Mnemonic Seed Phrases Offline](https://github.com/Julian-1001/Phrase_Generator)
   
 ## Certifications
 - **Security+ ce** - CompTIA, 2024 - [View certification](https://github.com/Julian-1001/Security_ce/blob/main/CompTIA%20Security%2B%20ce%20certificate.pdf)
