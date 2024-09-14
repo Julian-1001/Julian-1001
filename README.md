@@ -19,6 +19,6 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="Julian Melendez | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Julian Melendez | LinkedIn" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" />](https://www.linkedin.com/in/julian-melendez-0a9ba22b8)
 
 [linkedin]: https://www.linkedin.com/in/julian-melendez-0a9ba22b8/
