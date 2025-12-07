@@ -18,4 +18,4 @@
 
 
 
-<h1> 🤳 Connect with me: <a href="mailto:julianmelendez@gmail.com" style="text-decoration: none;">📬</a></h1>
+<h1>Connect with me: <a href="mailto:j.melendez.it@outlook.com">📬</a></h1>
