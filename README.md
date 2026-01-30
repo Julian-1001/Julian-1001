@@ -2,7 +2,7 @@
 
 # 👨‍💻 Projects
 
-## Azure / Cloud Projects
+## Azure
   - [**Azure Privilege Creep: RBAC vs PIM**](https://github.com/Julian-1001/Azure-Privilege-Creep-RBAC-vs-PIM)
     
      Scientific, evidence-driven analysis of identity and access control, comparing permanent RBAC assignments with time-bound PIM access using Resource Audits, Azure Activity Logs, and Log Analytics.
