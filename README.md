@@ -15,10 +15,16 @@
   
 <h1>Certifications</h1>
 
-- [**Security+ ce**](https://github.com/Julian-1001/Security_ce/blob/main/CompTIA%20Security%2B%20ce%20certificate.pdf)
-- [**Cybersecurity Masterclass: SOC Analyst**](https://github.com/Julian-1001/Cybersecurity-Master-Class-Certificate/blob/main/Cybersecurity%20Masterclass%20SOC%20Analyst%20Certificate.pdf)
-- [**Google Cybersecurity**](https://coursera.org/share/6af45b28d118af663af8ab0f7cdc8869)
-- [**Google IT Support**](https://coursera.org/share/94b61d812ff1fb6a6125b5fce20f0f24)
+- **CompTIA Security+ (ce)**
+
+<details>
+<summary>Additional Training & Coursework</summary>
+
+- Cybersecurity Masterclass: SOC Analyst  
+- Google Cybersecurity Certificate  
+- Google IT Support Certificate  
+
+</details>
 
 
 
