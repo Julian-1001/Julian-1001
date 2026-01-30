@@ -11,7 +11,7 @@
     
      Built and monitored a deliberately exposed Azure honeynet, then hardened the environment and measured the reduction in attack activity and security incidents using Sentinel and Log Analytics.
 
-## Cryptography Projects
+## Cryptography
 
   - [**A CLI Application to Generate Mnemonic Seed Phrases Offline**](https://github.com/Julian-1001/Phrase_Generator)
     
