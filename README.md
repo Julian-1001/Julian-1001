@@ -4,7 +4,11 @@
 
 ## Cybersecurity
 - **Azure / Cloud Projects**
-  - [**Creating a Live SOC/Honey Net in Azure**](https://github.com/Julian-1001/Azure-SOC)
+  - [**Azure Privilege Creep: RBAC vs PIM**](https://github.com/Julian-1001/Azure-Privilege-Creep-RBAC-vs-PIM)  
+    Scientific, evidence-driven analysis of identity and access control, comparing permanent RBAC assignments with time-bound PIM access using Azure Activity Logs and Log Analytics.
+  - [**Creating a Live SOC / Honey Net in Azure**](https://github.com/Julian-1001/Azure-SOC)  
+    Deployed a live Azure SOC and honeynet environment to observe real-world attack activity, security telemetry, and alerting behavior.
+
 ## Cryptography
 - **Go Projects**
   - [**A CLI Application to Generate Mnemonic Seed Phrases Offline**](https://github.com/Julian-1001/Phrase_Generator)
