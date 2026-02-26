@@ -21,6 +21,7 @@
 # Certifications
 
 - [**CompTIA Security+ (ce)**](https://github.com/Julian-1001/Security_ce/blob/main/CompTIA%20Security%2B%20ce%20certificate.pdf)
+- [**Microsoft Certified: Azure Administrator (AZ-104)**](https://github.com/user-attachments/assets/616f3ca0-40c8-4617-9a45-88800faf3d42)
 
 <details>
 <summary>Additional Training & Coursework</summary>
