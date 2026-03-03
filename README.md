@@ -1,4 +1,4 @@
-# Hi, I'm Julian! Cloud Security Professional
+# Hi, I'm Julian! Cloud & IT Systems Professional
 
 # 👨‍💻 Projects
 
