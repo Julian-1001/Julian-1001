@@ -1,9 +1,9 @@
 # Hi, I'm Julian! Cloud & IT Systems Professional
-## Microsoft Azure | Entra ID (RBAC, PIM) | Sentinel & KQL | Azure Monitor | ARM / Bicep | Networking (VNet, NSG)
+### Microsoft Azure | Entra ID (RBAC PIM) | Sentinel KQL | Azure Monitor | ARM / Bicep | Networking (VNet NSG)
 
 # 👨‍💻 Projects
 
-## Azure
+# Azure
   - [**Azure Privilege Creep: RBAC vs PIM**](https://github.com/Julian-1001/Azure-Privilege-Creep-RBAC-vs-PIM)    
      Scientific, evidence-driven analysis of identity and access control, comparing permanent RBAC assignments with time-bound PIM access using Resource Audits, Azure Activity Logs, and Log Analytics.
     
