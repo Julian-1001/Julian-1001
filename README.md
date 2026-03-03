@@ -1,4 +1,4 @@
-# Hi, I'm Julian! Azure-Certified Cloud & IT Systems Professional
+# Hi, I'm Julian! Azure-Certified Cloud Professional
 ### Microsoft Azure | Entra ID (RBAC PIM) | Sentinel KQL | Azure Monitor | ARM / Bicep | Networking (VNet NSG)
 
 # 👨‍💻 Projects
