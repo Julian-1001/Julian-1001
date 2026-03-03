@@ -1,4 +1,5 @@
 # Hi, I'm Julian! Cloud & IT Systems Professional
+## Microsoft Azure | Entra ID (RBAC, PIM) | Sentinel & KQL | Azure Monitor | ARM / Bicep | Networking (VNet, NSG)
 
 # 👨‍💻 Projects
 
