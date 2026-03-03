@@ -9,8 +9,10 @@
   <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/838f803b-228a-4913-810d-4cf9f3795b8e" />
 
     
-  - [**Creating a Live SOC / Honey Net in Azure**](https://github.com/Julian-1001/Azure-SOC)    
-     Built and monitored a deliberately exposed Azure honeynet, then hardened the environment and measured the reduction in attack activity and security incidents using Sentinel and Log Analytics.
+  ## [**Creating a Live SOC / Honey Net in Azure**](https://github.com/Julian-1001/Azure-SOC)    
+  - Built and monitored a deliberately exposed Azure honeynet, then hardened the environment and measured the reduction in attack activity and security incidents using Sentinel and Log Analytics.
+  <img width="1084" height="756" alt="image" src="https://github.com/user-attachments/assets/991efaf9-06bb-476e-866a-6226bbf536b9" />
+
 
 ## Cryptography & Web3
 
